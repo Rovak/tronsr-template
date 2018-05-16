@@ -1,1 +1,1 @@
-This is the intro of my team!
+<img src="https://raw.githubusercontent.com/tron-explorer/docs/master/images/tron-banner.png">
